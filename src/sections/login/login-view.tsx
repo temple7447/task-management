@@ -55,6 +55,7 @@ export default function LoginView () {
           width: '100%',
           height: '100vh',
           alignItems: 'center'
+          
           // justifyContent: 'center',
         }}
       >
